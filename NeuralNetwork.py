@@ -22,5 +22,5 @@ for iteration in range(1):
     outputs = sigmoid(np.dot(input_layer, synaptic_weights))
     
 print('Outputs after training: ')  
-print(outputs)  
-#test
+print(outputs)
+#test123
