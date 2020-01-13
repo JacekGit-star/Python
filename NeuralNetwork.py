@@ -23,3 +23,4 @@ for iteration in range(1):
     
 print('Outputs after training: ')  
 print(outputs)  
+#test
