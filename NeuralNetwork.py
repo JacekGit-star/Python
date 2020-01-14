@@ -3,9 +3,9 @@ def sigmoid(x):
     return 1 / (1+np.exp(-x))
 
 
-training_inputs = {[0,0,1],
+training_inputs = ([0,0,1],
                    [1,1,1],
-                   [1,0,1]}
+                   [1,0,1])
 
 training_inputs = np.array(training_inputs)
 
